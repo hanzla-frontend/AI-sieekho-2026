@@ -395,7 +395,7 @@ Assuming:
 Frontend Developer | MERN Stack Developer | AI Enthusiast
 
 * GitHub: https://github.com/hanzla-frontend
-* LinkedIn: https://www.linkedin.com/in/hanzla-mahmood
+* LinkedIn: https://www.linkedin.com/in/hanzla-mahmood-developer/
 
 ---
 
